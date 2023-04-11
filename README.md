@@ -1,5 +1,5 @@
 # Polinomio
 
 Grupo:
-Gabriel Abarca Montero
+Gabriel Abarca Montero -
 Jaime Ugaz Riveros
